@@ -1,0 +1,6 @@
+interface:
+  display_name: "XHang IP Creator（角色资产包）"
+  short_description: "引导创建具有完整视觉风格与动画能力的个人角色资产包"
+  default_prompt: "使用 $xhang-ip-create-skill 引导我创建个人角色资产包。"
+policy:
+  allow_implicit_invocation: true
